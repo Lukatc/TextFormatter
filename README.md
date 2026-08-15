@@ -79,7 +79,7 @@ result live before committing.
 
 ## License
 
-Copyright (c) 2026 Luka
+Copyright (c) 2026 Lukatc
 
 SPDX-License-Identifier: CC-BY-NC-ND-4.0
 
