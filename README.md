@@ -76,7 +76,6 @@ result live before committing.
    everything and restore your text exactly as it was, or **Done** to
    keep the result and close the dialog.
 
-See [`CHANGELOG.md`](./CHANGELOG.md) for the full version history.
 
 ## License
 
